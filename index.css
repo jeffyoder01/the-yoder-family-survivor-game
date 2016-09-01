@@ -1,0 +1,44 @@
+
+h2 {
+	font-style: italic;
+}
+table {
+	outline-color: #000000;
+	border-width: 5px;
+}
+h1 {
+	color: #1A1A1A;
+}
+
+	td {
+	outline-color: #800080;
+	outline-width: thick;
+}
+
+	
+body {
+	background-color: #759C7E;
+}
+table {
+	padding: 20px;
+}
+table {
+	border-style: solid;
+	padding: 20 px;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-size: 36;
+	font-family: cursive;
+}
+
+h1 {
+	color: white;
+}
+
+
+
+
+
+
