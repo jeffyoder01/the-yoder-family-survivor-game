@@ -37,7 +37,10 @@ h1 {
 	color: white;
 }
 
-
+tr {
+	border: 10px;
+	border-color: black;
+}
 
 
 
