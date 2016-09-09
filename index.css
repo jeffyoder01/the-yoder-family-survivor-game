@@ -41,7 +41,10 @@ tr {
 	border: 10px;
 	border-color: black;
 }
-
+table {
+	border-width: 4px;
+	border-color: black;
+}
 
 
 
