@@ -1,0 +1,50 @@
+table, th, td {
+    border: 5px solid black;
+}h2 {
+	font-style: italic;
+}
+table {
+	outline-color: black;
+	border-width: 20px;
+}
+h1 {
+	color: #1A1A1A;
+}
+
+	td {
+	padding: 25px;
+	outline-color: #800080;
+	outline-width: thick;
+}
+
+	
+body {
+	Background-color: #759C7E
+}
+table {
+	padding: 50px;
+}
+table {
+	border-style: solid;
+	padding: 20 px;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-size: 45;
+	
+}
+
+h1 {
+	color: white;
+	font-size: 60;
+}
+
+tr {
+    border:120px solid black;
+}
+table {
+	border-width: 10px;
+	border-color: black;
+}
+

@@ -1,0 +1,31 @@
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 18+1)]"
+1
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 17+1)]"
+13
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 16+1)]"
+2
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 15+1)]"
+11
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 14+1)]"
+7
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 13+1)]"
+6
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 12+1)]"
+12
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 11+1)]"
+10
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 10+1)]"
+7
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 9+1)]"
+1
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 8+1)]"
+3
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 7+1)]"
+1
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 6+1)]"
+5
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 5+1)]"
+2
+jy@jy-HP-Notebook ~ $ echo "$[($RANDOM % 4+1)]"
+4
+
