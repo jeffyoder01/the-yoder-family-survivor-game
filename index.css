@@ -1,16 +1,20 @@
+body {
+	background-color:#629875;
+}
 table, th, td {
     border: 5px solid black;
-}h2 {
+}
+h2 {
 	font-style: italic;
 }
 table {
-	outline-color: black;
+	outline-color: white;
 	border-width: 20px;
+
 }
 
-
 	td {
-	padding: 25px;
+	padding: 5px;
 	outline-color: #800080;
 	outline-width: thick;
 }
@@ -18,7 +22,7 @@ table {
 	
 
 table {
-	padding: 50px;
+	padding: 10px;
 }
 table {
 	border-style: solid;
@@ -26,13 +30,13 @@ table {
 }
 
 h2 {
-	color: #FFFFFF;
+	color: black;
 	font-size: 45;
 	
 }
 
 h1 {
-	color: white;
+	color: black;
 	font-size: 60;
 }
 
@@ -43,6 +47,7 @@ table {
 	border-width: 10px;
 	border-color: black;
 }
+
 tbody {
-	background-color: #5692D2;
+	background-color: #8EBF82;
 }
