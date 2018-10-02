@@ -1,5 +1,6 @@
 body {
-	background-color:#629875;
+	background-color:#2E73A1;
+	
 }
 table, th, td {
     border: 5px solid black;
@@ -36,7 +37,7 @@ h2 {
 }
 
 h1 {
-	color: black;
+	color: white;
 	font-size: 60;
 }
 
@@ -49,5 +50,5 @@ table {
 }
 
 tbody {
-	background-color: #8EBF82;
+	background-color: #1BB6F7;
 }
