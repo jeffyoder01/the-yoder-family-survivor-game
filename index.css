@@ -1,7 +1,7 @@
 body {
 
-	%background: url(beach6.jpg);
-	background-color: #3465A4 ;
+	background: url(beach6.jpg);
+	%background-color: #3465A4 ;
 }
 table, th, td {
     border: 5px solid black;
@@ -51,7 +51,7 @@ table {
 }
 
 tbody {
-background: url(beach6.jpg);
-%background-color: #3465A4 ;	
+%background: url(beach6.jpg);
+background-color: #3465A4 ;	
 
 }
