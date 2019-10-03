@@ -1,6 +1,6 @@
 body {
 
-	background: url(beach6.jpg);
+	background: url(survivor-pics/beach6.jpg);
 	%background-color: #3465A4 
 }
 table, th, td {
@@ -51,8 +51,7 @@ table {
 }
 
 tbody {
-%background: url(beach6.jpg)
+%background: url(survivor-pics/beach6.jpg)
 background-color: #3465A4 ;	
 
 }
-
