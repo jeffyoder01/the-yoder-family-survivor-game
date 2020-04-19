@@ -1,7 +1,8 @@
 body {
 
-	background: url(pics2020/beach6.jpg);
-	%background-color: #3465A4 
+	%background: url(pics2020/beach6.jpg);
+	background-color: #156E20
+      
 }
 table, th, td {
     border: 5px solid black;
@@ -12,6 +13,8 @@ h2 {
 table {
 	outline-color: white;
 	border-width: 20px;
+    background-color: #156E20
+
 
 }
 
@@ -51,7 +54,7 @@ table {
 }
 
 tbody {
-%background: url(survivor-pics/beach6.jpg)
-background-color: #3465A4 ;	
+background: url(pics2020/beach6.jpg);
+%background-color: #3465A4 ;	
 
 }
