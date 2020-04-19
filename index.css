@@ -54,7 +54,7 @@ table {
 }
 
 tbody {
-background: url(pics2020/beach6.jpg);
-%background-color: #3465A4 ;	
+%background: url(pics2020/beach6.jpg);
+background-color: #156E20 ;	
 
 }
